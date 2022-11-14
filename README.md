@@ -1,37 +1,33 @@
 # JawwyTV Recommendation System - ML Capstone Project
 
-## About / Synopsis
-
-* What is it, what does it do / Abstract
-* Project status: working/prototype
-* Nuxeo Support
 
 <img src="https://drive.google.com/uc?export=view&id=1alMqPsBx-JN7zL2XKUwKmGaecGWuMr-R"/>
 
-## Table of contents
 
-Our dataset from <a href="google.com" target="_blank">STC Open Dataset - IPTV Dataset</a>:
+## About / Synopsis
 
-> * [JawwyTV](#title--repository-name)
->   * [Table of contents](#table-of-contents)
->   * [What is Jawway?](#installation)
->     * [Screenshots](#screenshots)
->     * [Features](#features)
->   * [Code](#code)
->     * [Content](#content)
->     * [Requirements](#requirements)
->     * [Limitations](#limitations)
->     * [Build](#build)
->     * [Deploy (how to install build product)](#deploy-how-to-install-build-product)
->   * [Resources (Documentation and other links)](#resources-documentation-and-other-links)
->   * [Contributing / Reporting issues](#contributing--reporting-issues)
->   * [License](#license)
->   * [About Nuxeo](#about-nuxeo)
+* Vision 2030
+* About JawwyTV
+* JawwyTV dataset
+* Dashboard
+* Preprocessing
+* Recommendation System
+* Resource
 
-## Columns
 
-Sample:
+## Vision 2030
+  xxxxx  xxxxx   xxxxx
 
+## About JawwyTV
+
+ Jawwy TV is an entertainment streaming service that brings you the best movies, series, documentaries, kids shows and more through a selection of the best local and international partners. You can also enjoy watching a wide range of exclusive and original works, in addition to a large number of the best local and international direct TV channels, including open and encrypted. It's all tailored to your liking in one place and account, so you can easily search your entertainment and create a single watch list of all your favourites.
+
+
+
+## JawwyTV dataset
+It consists of 13 columns and 3598607 rows
+
+### Columns:
 * User ID
 * SESSION START (DATE/TIME)
 * SESSION DURATION
@@ -44,65 +40,16 @@ Sample:
 * Episode title
 * Episode number
 
-## Usage
+## Preprocessing
+  xxxxx   xxxxx   xxxxx
 
-### Screenshots
 
-### Features
+## Recommendation System
+  xxxxx
+  xxxxx
+  xxxxx
 
-## Code
 
-[![Build Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=/nuxeo/addons_nuxeo-sample-project-master)](https://qa.nuxeo.org/jenkins/job/nuxeo/job/addons_nuxeo-sample-project-master/)
-
-### Content
-
-Description, sub-modules organization...
-
-### Requirements
-
-See [CORG/Compiling Nuxeo from sources](http://doc.nuxeo.com/x/xION)
-
-Sample: <https://github.com/nuxeo/nuxeo/blob/master/nuxeo-distribution/README.md>
-
-### Limitations
-
-Sample: <https://github.com/nuxeo-archives/nuxeo-features/tree/master/nuxeo-elasticsearch>
-
-<!-- ### Build
-
-    mvn clean install
-
-Build options:
-
-* ...
-
-### Deploy (how to install build product)
-
-Direct to MP package if any. Otherwise provide steps to deploy on Nuxeo Platform:
-
- > Copy the built artifacts into $NUXEO_HOME/templates/custom/bundles/ and activate the custom template. -->
-
-## Resources (Documentation and other links)
-
-## Contributing / Reporting issues
-
-Link to JIRA component (or project if there is no component for that project). Samples:
-
-* [Link to component](https://jira.nuxeo.com/issues/?jql=project%20%3D%20NXP%20AND%20component%20%3D%20Elasticsearch%20AND%20Status%20!%3D%20%22Resolved%22%20ORDER%20BY%20updated%20DESC%2C%20priority%20DESC%2C%20created%20ASC)
-* [Link to project](https://jira.nuxeo.com/secure/CreateIssue!default.jspa?project=NXP)
-
-## License
-
-[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
-
-## About Nuxeo
-
-Nuxeo Platform is an open source Content Services platform, written in Java. Data can be stored in both SQL & NoSQL databases.
-
-The development of the Nuxeo Platform is mostly done by Nuxeo employees with an open development model.
-
-The source code, documentation, roadmap, issue tracker, testing, benchmarks are all public.
-
-Typically, Nuxeo users build different types of information management solutions for [document management](https://www.nuxeo.com/solutions/document-management/), [case management](https://www.nuxeo.com/solutions/case-management/), and [digital asset management](https://www.nuxeo.com/solutions/dam-digital-asset-management/), use cases. It uses schema-flexible metadata & content models that allows content to be repurposed to fulfill future use cases.
-
-More information is available at [www.nuxeo.com](https://www.nuxeo.com).
+## Resource
+- xxx
+- xxx
