@@ -5,18 +5,18 @@
 
 
 ## :round_pushpin: Table of contents
-> * Table of contents
-> * Vision 2030
-> * About Stc & Stc-tv
-> * Stc-tv
-> * Our target
-> * Stc-tv dataset
-> * EDA
-> * Dashboard
-> * Preprocessing
-> * Recommendation System
-> * Resource
-> * Team Memebers
+> * [Table of contents](#round_pushpin-table-of-contents)
+> * [Vision 2030](#green_circle-vision-2030)
+> * [About Stc & Stc-tv](#purple_circleabout-stc)
+> * [Stc-tv](#orange_circle-about-stc-tv)
+> * [Our target](#dartour-target)
+> * [Stc-tv dataset](#card_index_dividersstc-tv-dataset)
+> * [EDA](#bar_charteda)
+> * [Dashboard](#bar_chartchart_with_downwards_trendchart_with_upwards_trenddashboard)
+> * [Preprocessing](#gear-preprocessing)
+> * [Recommendation System](#black_small_squarerecommendation-system)
+> * [Resource](#file_folder-resource)
+> * [Team Memebers](#octocatteam-memebers)
 
 
 ## :green_circle:	 Vision 2030
