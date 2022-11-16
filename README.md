@@ -88,6 +88,7 @@ In this notebook, we will attempt to implement a few recommendation algorithms (
 - [Jumana Almussa](https://github.com/jumana0)
 - [Mahmuod Alhassan](https://github.com/alhassanm)
 - [Amjad Almusallam](https://github.com/ASM650)
+- [Batool Alhajaji](https://github.com/Batool247)
 
 
 
