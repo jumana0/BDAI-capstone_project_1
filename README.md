@@ -138,11 +138,10 @@ Finally, we use pickle to save the matrices.
 
 ## :file_folder: Resource
 - Data Resource : https://lab.stc.com.sa/dataset/ar/ 
-- xxx
 
 ## :octocat:	Team Memebers
 
-- [Abdullah Huwaishel](https://github.com/Batool247)
+- [Abdullah Huwaishel](https://github.com/hush966)
 - [Afnan Alzahrani](https://github.com/AfnanAlzahrani)
 - [Jumana Almussa](https://github.com/jumana0)
 - [Mahmuod Alhassan](https://github.com/alhassanm)
