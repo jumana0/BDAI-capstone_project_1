@@ -81,8 +81,15 @@ The rating and description columns are added to the main dataset.
 <img src="https://drive.google.com/uc?export=view&id=1KRdSCYSvaq9b_U7VAw9nvoQHDR4DGKBw"/>
 
 
+### - The most frequently used words in the program description
+<img src="https://drive.google.com/uc?export=view&id=1gNu-1QiOuU91Ur8hc3sSi37dZKr-ScW3"/>
+
+
+
 ##  :bar_chart:	:chart_with_downwards_trend:	:chart_with_upwards_trend:	Dashboard
 <img src="https://drive.google.com/uc?export=view&id=1bzgvKqS6F_YNRp1nWUNCjgHvxtVhXVG_"/>
+
+
 
 
 
