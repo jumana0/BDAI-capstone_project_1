@@ -15,8 +15,8 @@
 > * [Dashboard](#bar_chartchart_with_downwards_trendchart_with_upwards_trenddashboard)
 > * [Preprocessing](#gear-preprocessing)
 > * [Recommendation System](#black_small_squarerecommendation-system)
-> * [Future work](#Future_work)
-> * [Real world project](#Real_world_project)
+> * [Future work](#black_small_squarefuture-work)
+> * [Real world project](#black_small_squarereal-world-project)
 > * [Resource](#file_folder-resource)
 > * [Team Memebers](#octocatteam-memebers)
 
