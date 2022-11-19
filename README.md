@@ -15,11 +15,10 @@
 > * [Dashboard](#bar_chartchart_with_downwards_trendchart_with_upwards_trenddashboard)
 > * [Preprocessing](#gear-preprocessing)
 > * [Recommendation System](#black_small_squarerecommendation-system)
-> * [Resource](#file_folder-resource)
-> * [Team Memebers](#octocatteam-memebers)
 > * [Future work](#Future_work)
 > * [Real world project](#Real_world_project)
-
+> * [Resource](#file_folder-resource)
+> * [Team Memebers](#octocatteam-memebers)
 
 ## :green_circle:	 Vision 2030
 2030 vision introduced many ambitious goals to make huge leap in the Saudi economy and develop the local content, One of the programs of the 2030 vision (Quality of Life) which focus on improving the quality of life for the people & families.
