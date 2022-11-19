@@ -36,7 +36,8 @@ STC TV is an entertainment streaming service that provide you with the best movi
 So our vision target for this project is to contribute efficiently in developing a recommendation system for the viewer which will improve his quality of life, with the implementing the latest AI technology.
 
 ## :card_index_dividers:	Stc-tv dataset
-It consists of 13 columns and 3598607 rows
+STC website provides the STC-TV dataset that was used in this case study.
+It consists of 13 columns and 3598607 rows.
 
 ### Columns:
 > * User_id_maped : Unique ID
@@ -58,7 +59,9 @@ The rating and description columns are added to the main dataset.
 
 ##  :bar_chart:	EDA
 ### - The percentage of movies and series that STC-TV have.
+
 <img src="https://drive.google.com/uc?export=view&id=10DXqQBTKNQBE_w7u6YFp941XZ9TkBjgs"/>
+
 
 ### - Animation is the most popular genre in movies and series, while horror is the least popular.
 
