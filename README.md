@@ -53,26 +53,71 @@ It consists of 13 columns and 3598607 rows
 > * Original_name : The Official name of the movie/Series
 
 ##  :bar_chart:	EDA
+### - The percentage of movies and series that STC-TV have.
+<img src="https://drive.google.com/uc?export=view&id=10DXqQBTKNQBE_w7u6YFp941XZ9TkBjgs"/>
 
-x
-x
-xx
-x
-x
-x
+### - Animation is the most popular genre in movies and series, while horror is the least popular.
+
+<img src="https://drive.google.com/uc?export=view&id=1UQR9xxQJ6NV0Awzm_tuHyW1lI6neDbW1"/>
+<img src="https://drive.google.com/uc?export=view&id=18a9yFai903JyDzFP4jXiU9_7biVvR0GQ"/>
+
+
+### - This plots shows the total number of users watching and the total duration spent by program class. The majority of time is spent on series, which is understandable given the series long duration, but most users prefer to watch movies. 
+
+<img src="https://drive.google.com/uc?export=view&id=1G4g3MDL3241h-1gai9walvwwFyaQe64A"/>
+
+### - Here, we study the relationship and the user's behavior against the HD flag. As you can see, the majority prefers HD for series and movies. 
+<img src="https://drive.google.com/uc?export=view&id=1JIDWojZEURBrf8yAqURjwmYHxqsmYV_y"/>
+
+### - The highest total watched program is "The Boss Baby" and the lowest is "The Amazing Spider-Man".
+<img src="https://drive.google.com/uc?export=view&id=1d41lyt2v_Gu3LZ07X3H1NSn63Xot2pzf"/>
+
+
+### - The number of users who watched and rated the program class
+<img src="https://drive.google.com/uc?export=view&id=1KRdSCYSvaq9b_U7VAw9nvoQHDR4DGKBw"/>
+
 
 ##  :bar_chart:	:chart_with_downwards_trend:	:chart_with_upwards_trend:	Dashboard
 <img src="https://drive.google.com/uc?export=view&id=1bzgvKqS6F_YNRp1nWUNCjgHvxtVhXVG_"/>
 
 
+
 ## :gear:	 Preprocessing
-  xxxxx   xxxxx   xxxxx
+
+First, we checked for missing values.
+All good except the "program_desc" column, so we reset the program_desc column to have this information (genre, class, name, hd) because we will be adding a description column that was gathered from web scraping.
+
+Then we set the program genre for the programs that were not specified. 
+
+we dropped unnecessary columns like: season, episode, series_title, date and program_name.
+
+Converting the duration seconds to hours by divide the sec to 3600.
+
+Then we join the description(gathered from web scraping) with movies names. Then we dropped the null and duplicated values.
+
+
+
+After that, we created a function that did the following process: 
+made the text a string with all characters in lower case, removed all punctuation and differentiating characters from the text, splits a string into a list and finally, the word lemmatizer.
+
+After cleaning the data we apply CountVectorizer(Converting a collection of text documents to a matrix of token counts) on the description text with max_df=0.80, min_df=2 parameters.
+
+Finally, we use pickle to save the matrices. 
+
+
+
+
+
+
+
+
+
+
 
 
 ## :black_small_square:		Recommendation System
  Recommendation Systems are a type of information filtering systems as they improve the quality of search results and provides items that are more relevant to the search item or are realted to the search history of the user.
 
-In this notebook, we will attempt to implement a few recommendation algorithms (xxxxxxxxxxxxxxx) and try to build an ensemble of these models to come up with our final recommendation system.
 
 
 
