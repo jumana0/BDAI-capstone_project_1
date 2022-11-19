@@ -78,7 +78,7 @@ In this notebook, we will attempt to implement a few recommendation algorithms (
 
 
 ## :file_folder: Resource
-- xxx
+- Data Resource : https://lab.stc.com.sa/dataset/ar/ 
 - xxx
 
 ## :octocat:	Team Memebers
