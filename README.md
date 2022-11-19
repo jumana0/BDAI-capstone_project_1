@@ -17,6 +17,8 @@
 > * [Recommendation System](#black_small_squarerecommendation-system)
 > * [Resource](#file_folder-resource)
 > * [Team Memebers](#octocatteam-memebers)
+> * [Future work](#Future_work)
+> * [Real world project](#Real_world_project)
 
 
 ## :green_circle:	 Vision 2030
@@ -119,23 +121,31 @@ After cleaning the data we apply CountVectorizer(Converting a collection of text
 Finally, we use pickle to save the matrices. 
 
 
-
-
-
-
-
-
-
-
-
-
 ## :black_small_square:		Recommendation System
  Recommendation Systems are a type of information filtering systems as they improve the quality of search results and provides items that are more relevant to the search item or are realted to the search history of the user.
 
+> * Content-based : 
+In the content-based recommendation system we created three functions:
+The first one for the program description that contains (the movie name, movie class, movie genre, and whether it's HD or not),
+The second function was for the description that we gathered from the web scrapping.
+The third function contains both the program description and the description.
+
+> * Collaborative Filtering: 
+In the collaborative filtering, we used the user's ids, movies names, and ratings.
+
+
+
+## :black_small_square:	Real world project 
+<img src="https://drive.google.com/uc?export=view&id=1-ueAQ-hmeRI_JngiBj2PTZRA7aL1ICZf"/>
 
 
 
 
+## :black_small_square:	Future work
+> * Gathering pictures
+> * Deploy the webpage in global  server
+> * Upload pictures for the results in webpage
+ 
 ## :file_folder: Resource
 - Data Resource : https://lab.stc.com.sa/dataset/ar/ 
 
