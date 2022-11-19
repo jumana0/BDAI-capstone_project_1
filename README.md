@@ -51,6 +51,10 @@ It consists of 13 columns and 3598607 rows
 > * Series_title : Title(Name) of the Series
 > * HD
 > * Original_name : The Official name of the movie/Series
+> * Rating
+
+We used another dataset that had the same columns but with an additional column called "rating", and because the program_desc column wasn't enough for the recommendation system that we wanted to build,we collected data for the description by using web scraping
+The rating and description columns are added to the main dataset. 
 
 ##  :bar_chart:	EDA
 ### - The percentage of movies and series that STC-TV have.
